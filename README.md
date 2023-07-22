@@ -65,4 +65,5 @@ This project is a part of the "100 Days of Code" challenge by Angela Yu
 - [Mansi Yadav](https://github.com/FreeSpirit11)
 
 Feel free to fork, contribute, and use the Automated Birthday Wisher for your personal use. 
+
 Happy birthday wishing! 
